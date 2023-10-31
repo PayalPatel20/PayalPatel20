@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development Project.**
 
-- 🌱 I’m currently learning **Python,reactJS,NodeJS.**
+- 🌱 I’m currently learning **Python,reactJS,NodeJS and MongoDB.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PayalPatel20](https://github.com/PayalPatel20)
 
